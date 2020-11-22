@@ -21,11 +21,5 @@ public class App
     	Vertex v00 = g.getVertex("0");
     	System.out.println(v0);
     	Object name = v00.getProperty("name");
-//    	Object name = v00.getProperty("name");    	
-//    	Object name = v00.getProperty("name");    	
-//    	Object name = v00.getProperty("name");    	
-//    	Object name = v00.getProperty("name");
-//    	Object name = v00.getProperty("name");
-//    	Object name = v00.getProperty("name");
     }
 }
